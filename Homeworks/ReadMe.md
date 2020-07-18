@@ -4,4 +4,7 @@ The repository contains 5 scripts:
 - LinearModels.R
 - UniformDistribution
 
-which served as small projects/excercises for the Statistical Data Analysis I course
+which served as small projects/excercises for the [Statistical Data Analysis I] course and additionally:
+- wine.csv
+
+which is an input for kNN.R script
