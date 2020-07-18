@@ -1,3 +1,10 @@
+# The reposiroty contains:
+- Analysis_script.R [script where the exploratory analysis and building predictions models take place]
+- Report.pdf
+- ZadanieZaliczeniowe.pdf [Assignment text in polish]
+
+> Objective of the analysis in english below
+
 ## Use data from two files:	
 - protein.RData
 - cancer.RData
